@@ -1,2 +1,2 @@
 # Customer_Details
-Transtor JDBC Assignment 30-Oct-2021
+JDBC Assignment 30-Oct-2021 (Trantor Software Privited Limited)
